@@ -22,8 +22,8 @@ A comprehensive open-source Security Information and Event Management (SIEM) sol
 ## 🛠️ Quick Setup
 
 1. Clone the repository:
-```bash
-git clone https://github.com/ketaj271969/open-source-siem.git
+```bash[
+git clone https://github.com/letus101/Open-source-siem.git
 cd open-source-siem
 ```
 
